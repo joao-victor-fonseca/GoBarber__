@@ -1,4 +1,4 @@
-<h1 align="center"> <svg width="231" height="134" viewBox="0 0 231 134" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="231" height="134" viewBox="0 0 231 134" fill="none" xmlns="http://www.w3.org/2000/svg">
 <path d="M55.0285 124.761V123.892H58.6198V124.761L57.5005 124.953V128.395H62.3485V124.953L61.2292 124.761V123.892H64.8205V124.761L63.7012 124.953V132.802L64.8205 132.994V133.856H61.2292V132.994L62.3485 132.802V129.456H57.5005V132.802L58.6198 132.994V133.856H55.0285V132.994L56.1478 132.802V124.953L55.0285 124.761Z" fill="#999591"/>
 <path d="M70.8083 133.856C70.7671 133.656 70.7351 133.475 70.7122 133.316C70.6893 133.156 70.6733 132.996 70.6641 132.837C70.4032 133.17 70.0759 133.448 69.6822 133.671C69.2931 133.89 68.8765 134 68.4324 134C67.6588 134 67.0705 133.813 66.6677 133.439C66.2648 133.06 66.0634 132.529 66.0634 131.844C66.0634 131.142 66.3472 130.601 66.9149 130.222C67.4871 129.839 68.2699 129.647 69.2633 129.647H70.6573V128.785C70.6573 128.352 70.5199 128.009 70.2453 127.759C69.9706 127.503 69.5883 127.375 69.0985 127.375C68.7598 127.375 68.4599 127.419 68.199 127.505C67.9426 127.592 67.7343 127.711 67.5741 127.861L67.4299 128.641H66.3861V127.204C66.7249 126.935 67.1346 126.721 67.6153 126.561C68.096 126.397 68.6178 126.315 69.1809 126.315C70.0232 126.315 70.7053 126.529 71.2272 126.958C71.7491 127.387 72.01 128 72.01 128.799V132.364C72.01 132.46 72.01 132.554 72.01 132.645C72.0146 132.736 72.0215 132.827 72.0306 132.919L72.58 132.994V133.856H70.8083ZM68.6316 132.871C69.0802 132.871 69.4899 132.764 69.8607 132.549C70.2315 132.335 70.497 132.077 70.6573 131.776V130.558H69.2152C68.6613 130.558 68.2219 130.685 67.8968 130.941C67.5764 131.196 67.4162 131.507 67.4162 131.872C67.4162 132.196 67.5169 132.444 67.7183 132.618C67.9197 132.786 68.2241 132.871 68.6316 132.871Z" fill="#999591"/>
 <path d="M73.7061 132.994L74.8254 132.802V127.512L73.7061 127.321V126.451H76.1782V132.802L77.2975 132.994V133.856H73.7061V132.994ZM76.1782 124.556H74.8254V123.18H76.1782V124.556Z" fill="#999591"/>
@@ -34,41 +34,3 @@
 <ellipse rx="3.01354" ry="3.00339" transform="matrix(1 0 0 -1 210.947 67.0288)" fill="#999591"/>
 <ellipse rx="3.01354" ry="3.00339" transform="matrix(1 0 0 -1 19.0857 67.0288)" fill="#999591"/>
 </svg>
-</h1>
-
-<p align="center">
- <a href="#objetivo">Objetivo</a> •
- <a href="#tecnologias">Tecnologias</a> •
- <a href="#autor">Autor</a>
-</p>
-
-
-<h4 align="center">
-	🚧  GoBarber 🚀 Em construção...  🚧
-</h4>
-
-### objetivo
-O objetivo é uma web para fazer agendamentos em cabeleireiro
-
-
-### 🛠 Tecnologias
-
-As seguintes ferramentas foram usadas na construção do projeto:
-
-- [React](https://pt-br.reactjs.org/)
-- [TypeScript](https://www.typescriptlang.org/)
-
-
-### Autor
-
-
-<a href="https://github.com/joao-victor-fonseca">
- <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/84512746?v=4" width="100px;" alt="João Victor Fonseca"/>
- <br />
- <sub><b>João Victor Fonseca</b></sub></a> <a href="https://github.com/joao-victor-fonseca" title="perfil">🚀</a>
-
-
-Feito com ❤️ por João Victor Fonseca 👋🏽 Entre em contato!
-
-
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Gmail)](mailto:joaovictorfosecaassis@gmail.com)
